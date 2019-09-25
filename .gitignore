@@ -3,3 +3,9 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore Reports folder
+Reports
+
+# Ignore output folder
+test-output
