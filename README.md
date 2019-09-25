@@ -11,5 +11,8 @@ This is a BDD style Web Test automation framework.
   
 Steps:
   > gradle clean
+  
   > gradle assemble
+  
   > gradle build
+  
